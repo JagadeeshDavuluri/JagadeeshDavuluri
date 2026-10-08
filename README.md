@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jagadeesh Davuluri</h1>
-<h3 align="center">A passionate vibe coding hero pages, landing pages 3d websites, scroll based animations and interactive</h3>
+<h3 align="center">A passionate vibe coding in hero pages, landing pages 3d websites, scroll based animations and interactive and more</h3>
 <img align="right" alt="Coding" width="400" src="side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshdavuluri&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshdavuluri" /> </p>
