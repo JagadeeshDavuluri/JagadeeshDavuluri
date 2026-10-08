@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="assets/masthead.gif" alt="MasterHead" width="100%" />
+  <img src="masthead.gif" alt="MasterHead" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jagadeesh Davuluri</h1>
 <h3 align="center">A passionate vibe coding hero pages, landing pages 3d websites, scroll based animations and interactive</h3>
-<img align="right" alt="Coding" width="400" src="assets/side.gif">
+<img align="right" alt="Coding" width="400" src="side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshdavuluri&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshdavuluri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JagadeeshDavuluri?tab=repositories](https://github.com/JagadeeshDavuluri?tab=repositories)
 
